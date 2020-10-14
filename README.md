@@ -1,3 +1,10 @@
 # password-generator
 this is simple password generator
-this program just generate password and i use random, string, inquirer to build this project
+
+used pakage:
+=> random
+=> random
+=> inquirer
+
+for install dependency run following command:
+pip install -r requirements.txt
